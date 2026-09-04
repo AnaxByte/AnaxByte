@@ -24,9 +24,9 @@
 
 <p>
   🎓 <strong>Fudan University</strong> —
-  <code>School of Computer Science</code> — <code>Master's Degree</code><br/>
+  <code>Master's Degree</code><br/><br/>
   🎓 <strong>Chongqing University of Posts and Telecommunications</strong> —
-  <code>School of Computer Science</code> — <code>Bachelor's Degree</code>
+  <code>Bachelor's Degree</code>
 </p>
 
 ### 💼 Experience
@@ -35,15 +35,15 @@
   <img src="https://cdn.simpleicons.org/bytedance" width="13" height="13" alt="ByteDance"/>
   <img src="https://cdn.simpleicons.org/tiktok/FE2C55" width="13" height="13" alt="Douyin"/>
   <strong>ByteDance · Douyin E-commerce</strong> —
-  <code>Algorithm Engineer</code> — <code>2026.07</code><br/>
+  <code>Algorithm Engineer</code> — <code>2026.07</code><br/><br/>
   <img src="https://cdn.simpleicons.org/bytedance" width="13" height="13" alt="ByteDance"/>
   <img src="https://cdn.simpleicons.org/tiktok/FE2C55" width="13" height="13" alt="Douyin"/>
   <strong>ByteDance · Douyin E-commerce</strong> —
-  <code>Algorithm Engineer Intern</code> — <code>2026.04</code><br/>
+  <code>Algorithm Engineer Intern</code> — <code>2026.04</code><br/><br/>
   <img src="https://cdn.simpleicons.org/qq" width="13" height="13" alt="Tencent QQ"/>
   <img src="https://cdn.simpleicons.org/wechat" width="13" height="13" alt="WeChat"/>
   <strong>Tencent · WeChat</strong> —
-  <code>Algorithm Engineer Intern</code> — <code>2025.05</code><br/>
+  <code>Algorithm Engineer Intern</code> — <code>2025.05</code><br/><br/>
   🍠
   <strong>Xiaohongshu</strong> —
   <code>Algorithm Engineer Intern</code> — <code>2024.12</code>
