@@ -32,6 +32,7 @@
   <strong>ByteDance · Douyin E-commerce</strong> —
   <code>Algorithm Engineer Intern</code> — <code>2026.04</code><br/>
   <img src="https://cdn.simpleicons.org/qq" width="18" height="18" alt="Tencent QQ"/>
+  <img src="https://cdn.simpleicons.org/wechat" width="18" height="18" alt="WeChat"/>
   <strong>Tencent · WeChat</strong> —
   <code>Algorithm Engineer Intern</code> — <code>2025.05</code><br/>
   🍠
