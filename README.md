@@ -20,56 +20,61 @@
   </p>
 </div>
 
-### 🎓 Education
+<table>
+<tr>
+<td valign="top" width="58%">
+
+#### 💼 Experience
 
 <p>
-  🎓 <strong>Fudan University</strong> —
-  <code>Master's Degree</code><br/><br/>
-  🎓 <strong>Chongqing University of Posts and Telecommunications</strong> —
+  <img src="https://cdn.simpleicons.org/bytedance" width="13" height="13" alt="ByteDance"/>
+  <img src="https://cdn.simpleicons.org/tiktok/FE2C55" width="13" height="13" alt="Douyin"/>
+  <strong>ByteDance · Douyin E-commerce</strong><br/>
+  <code>Algorithm Engineer</code> · <sub>2026.07</sub>
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/bytedance" width="13" height="13" alt="ByteDance"/>
+  <img src="https://cdn.simpleicons.org/tiktok/FE2C55" width="13" height="13" alt="Douyin"/>
+  <strong>ByteDance · Douyin E-commerce</strong><br/>
+  <code>Algorithm Engineer Intern</code> · <sub>2026.04</sub>
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/qq" width="13" height="13" alt="Tencent QQ"/>
+  <img src="https://cdn.simpleicons.org/wechat" width="13" height="13" alt="WeChat"/>
+  <strong>Tencent · WeChat</strong><br/>
+  <code>Algorithm Engineer Intern</code> · <sub>2025.05</sub>
+</p>
+
+<p>
+  🍠 <strong>Xiaohongshu</strong><br/>
+  <code>Algorithm Engineer Intern</code> · <sub>2024.12</sub>
+</p>
+
+</td>
+<td valign="top" width="42%">
+
+#### 🎓 Education
+
+<p>
+  <img src="./assets/fudan-university.svg" width="26" height="26" alt="Fudan University"/>
+  <strong>Fudan University</strong><br/>
+  <code>Master's Degree</code>
+</p>
+
+<p>
+  <img src="./assets/cqupt.png" width="26" height="26" alt="CQUPT"/>
+  <strong>CQUPT</strong><br/>
+  <sub>Chongqing University of Posts and Telecommunications</sub><br/>
   <code>Bachelor's Degree</code>
 </p>
 
-### 💼 Experience
-
-<p>
-  <img src="https://cdn.simpleicons.org/bytedance" width="13" height="13" alt="ByteDance"/>
-  <img src="https://cdn.simpleicons.org/tiktok/FE2C55" width="13" height="13" alt="Douyin"/>
-  <strong>ByteDance · Douyin E-commerce</strong> —
-  <code>Algorithm Engineer</code> — <code>2026.07</code><br/><br/>
-  <img src="https://cdn.simpleicons.org/bytedance" width="13" height="13" alt="ByteDance"/>
-  <img src="https://cdn.simpleicons.org/tiktok/FE2C55" width="13" height="13" alt="Douyin"/>
-  <strong>ByteDance · Douyin E-commerce</strong> —
-  <code>Algorithm Engineer Intern</code> — <code>2026.04</code><br/><br/>
-  <img src="https://cdn.simpleicons.org/qq" width="13" height="13" alt="Tencent QQ"/>
-  <img src="https://cdn.simpleicons.org/wechat" width="13" height="13" alt="WeChat"/>
-  <strong>Tencent · WeChat</strong> —
-  <code>Algorithm Engineer Intern</code> — <code>2025.05</code><br/><br/>
-  🍠
-  <strong>Xiaohongshu</strong> —
-  <code>Algorithm Engineer Intern</code> — <code>2024.12</code>
-</p>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-#### Research Interests
-
-- **Generalization** beyond fixed tasks
-- **Agentic systems** that observe and act
-- **Search and planning** under constraints
-- **Evaluation** driven by evidence
-
-</td>
-<td valign="top" width="50%">
-
-#### Open Source
+#### 💻 Open Source
 
 **[AI SkillUp](https://github.com/AnaxByte/AI-SkillUp)**
 
 A practical, evolving skill tree for learning and building in the AI age.
-
-`Learn` · `Build` · `Evaluate` · `Iterate`
 
 </td>
 </tr>
