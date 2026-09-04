@@ -20,6 +20,15 @@
   </p>
 </div>
 
+### 🎓 Education
+
+<p>
+  🎓 <strong>Fudan University</strong> —
+  <code>School of Computer Science</code> — <code>Master's Degree</code><br/>
+  🎓 <strong>Chongqing University of Posts and Telecommunications</strong> —
+  <code>School of Computer Science and Technology</code> — <code>Bachelor's Degree</code>
+</p>
+
 ### 💼 Experience
 
 <p>
