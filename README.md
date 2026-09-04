@@ -20,6 +20,19 @@
   </p>
 </div>
 
+### 💼 Experience
+
+<p>
+  🛒 <strong>ByteDance · Douyin E-commerce</strong> —
+  <code>Algorithm Engineer</code> — <code>2026.07</code><br/>
+  🛒 <strong>ByteDance · Douyin E-commerce</strong> —
+  <code>Algorithm Engineer Intern</code> — <code>2026.04</code><br/>
+  💬 <strong>Tencent · WeChat</strong> —
+  <code>Algorithm Engineer Intern</code> — <code>2025.05</code><br/>
+  📕 <strong>Xiaohongshu</strong> —
+  <code>Algorithm Engineer Intern</code> — <code>2024.12</code>
+</p>
+
 <table>
   <tr>
     <td valign="top" width="50%">
