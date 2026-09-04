@@ -23,19 +23,19 @@
 ### 💼 Experience
 
 <p>
-  <img src="https://cdn.simpleicons.org/bytedance" width="16" height="16" alt="ByteDance"/>
-  <img src="https://cdn.simpleicons.org/tiktok/FE2C55" width="16" height="16" alt="Douyin"/>
+  <img src="https://cdn.simpleicons.org/bytedance" width="13" height="13" alt="ByteDance"/>
+  <img src="https://cdn.simpleicons.org/tiktok/FE2C55" width="13" height="13" alt="Douyin"/>
   <strong>ByteDance · Douyin E-commerce</strong> —
   <code>Algorithm Engineer</code> — <code>2026.07</code><br/>
-  <img src="https://cdn.simpleicons.org/bytedance" width="16" height="16" alt="ByteDance"/>
-  <img src="https://cdn.simpleicons.org/tiktok/FE2C55" width="16" height="16" alt="Douyin"/>
+  <img src="https://cdn.simpleicons.org/bytedance" width="13" height="13" alt="ByteDance"/>
+  <img src="https://cdn.simpleicons.org/tiktok/FE2C55" width="13" height="13" alt="Douyin"/>
   <strong>ByteDance · Douyin E-commerce</strong> —
   <code>Algorithm Engineer Intern</code> — <code>2026.04</code><br/>
-  <img src="https://cdn.simpleicons.org/qq" width="16" height="16" alt="Tencent QQ"/>
-  <img src="https://cdn.simpleicons.org/wechat" width="16" height="16" alt="WeChat"/>
+  <img src="https://cdn.simpleicons.org/qq" width="13" height="13" alt="Tencent QQ"/>
+  <img src="https://cdn.simpleicons.org/wechat" width="13" height="13" alt="WeChat"/>
   <strong>Tencent · WeChat</strong> —
   <code>Algorithm Engineer Intern</code> — <code>2025.05</code><br/>
-  🍠
+  <sup>🍠</sup>
   <strong>Xiaohongshu</strong> —
   <code>Algorithm Engineer Intern</code> — <code>2024.12</code>
 </p>
