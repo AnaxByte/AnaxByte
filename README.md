@@ -11,11 +11,11 @@
       height="28"
       alt="Waving hand"
     />
-    <strong>I'm currently focused on agents that reason and generalize.</strong>
+    <strong>I'm currently focused on Agents that reason and generalize.</strong>
   </p>
 
   <p>
-    <code>AI student at Fudan University</code>
+    <code>AI Algorithm Engineer</code>
     <code>Shanghai, China</code>
   </p>
 </div>
