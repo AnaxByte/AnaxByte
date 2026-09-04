@@ -1,38 +1,47 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="AnaxByte - intelligence engineer" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=18&color=2F81F7&center=true&vCenter=true&pause=100000&width=520&lines=Hi%2C+I'm+AnaxByte.+AI+Explorer+%26+Builder."
+    alt="Hi, I'm AnaxByte. AI Explorer and Builder."
+  />
+
+  <p>
+    <img
+      src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+      width="28"
+      height="28"
+      alt="Waving hand"
+    />
+    <strong>I'm currently focused on agents that reason and generalize.</strong>
+  </p>
+
+  <p>
+    <code>AI student at Fudan University</code>
+    <code>Shanghai, China</code>
+  </p>
 </div>
 
-### 01 / ABOUT
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-I'm **Junqiang Huang**, an AI student at Fudan University. I build systems that
-reason, plan, and improve through evidence rather than guesswork.
+#### Research Interests
 
-My current work sits at the intersection of **AI agents**, **generalization**,
-**search**, and **evaluation**.
+- **Generalization** beyond fixed tasks
+- **Agentic systems** that observe and act
+- **Search and planning** under constraints
+- **Evaluation** driven by evidence
 
----
+    </td>
+    <td valign="top" width="50%">
 
-### 02 / BUILDING
+#### Open Source
 
-#### [AI SkillUp](https://github.com/AnaxByte/AI-SkillUp) `->`
+**[AI SkillUp](https://github.com/AnaxByte/AI-SkillUp)**
 
-A practical, evolving map of the skills that matter in the AI age.
+A practical, evolving skill tree for learning and building in the AI age.
 
-`learn deliberately` &nbsp;&nbsp; `build in public` &nbsp;&nbsp; `measure progress`
+`Learn` · `Build` · `Evaluate` · `Iterate`
 
----
-
-### 03 / WORKING SET
-
-```text
-LANGUAGE     Python
-SYSTEMS      Agents / Search / Planning
-METHOD       Experiment / Evaluate / Iterate
-QUESTION     How do we build intelligence that generalizes?
-```
-
----
-
-<div align="center">
-  <code>ANAXBYTE // BUILDING INTELLIGENCE, ONE BYTE AT A TIME</code>
-</div>
+    </td>
+  </tr>
+</table>
