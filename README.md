@@ -26,7 +26,7 @@
   🎓 <strong>Fudan University</strong> —
   <code>School of Computer Science</code> — <code>Master's Degree</code><br/>
   🎓 <strong>Chongqing University of Posts and Telecommunications</strong> —
-  <code>School of Computer Science and Technology</code> — <code>Bachelor's Degree</code>
+  <code>School of Computer Science</code> — <code>Bachelor's Degree</code>
 </p>
 
 ### 💼 Experience
@@ -44,7 +44,7 @@
   <img src="https://cdn.simpleicons.org/wechat" width="13" height="13" alt="WeChat"/>
   <strong>Tencent · WeChat</strong> —
   <code>Algorithm Engineer Intern</code> — <code>2025.05</code><br/>
-  <sup>🍠</sup>
+  🍠
   <strong>Xiaohongshu</strong> —
   <code>Algorithm Engineer Intern</code> — <code>2024.12</code>
 </p>
