@@ -50,8 +50,8 @@
 </p>
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
+<tr>
+<td valign="top" width="50%">
 
 #### Research Interests
 
@@ -60,8 +60,8 @@
 - **Search and planning** under constraints
 - **Evaluation** driven by evidence
 
-    </td>
-    <td valign="top" width="50%">
+</td>
+<td valign="top" width="50%">
 
 #### Open Source
 
@@ -71,6 +71,6 @@ A practical, evolving skill tree for learning and building in the AI age.
 
 `Learn` · `Build` · `Evaluate` · `Iterate`
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
