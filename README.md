@@ -31,10 +31,10 @@
   <img src="https://cdn.simpleicons.org/tiktok/FE2C55" width="18" height="18" alt="Douyin"/>
   <strong>ByteDance · Douyin E-commerce</strong> —
   <code>Algorithm Engineer Intern</code> — <code>2026.04</code><br/>
-  <img src="https://cdn.simpleicons.org/wechat" width="18" height="18" alt="WeChat"/>
+  <img src="https://cdn.simpleicons.org/qq" width="18" height="18" alt="Tencent QQ"/>
   <strong>Tencent · WeChat</strong> —
   <code>Algorithm Engineer Intern</code> — <code>2025.05</code><br/>
-  <img src="./assets/xiaohongshu-shuduizhang.png" width="22" height="22" alt="Captain Potato"/>
+  🍠
   <strong>Xiaohongshu</strong> —
   <code>Algorithm Engineer Intern</code> — <code>2024.12</code>
 </p>
