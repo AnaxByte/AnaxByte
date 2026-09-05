@@ -22,7 +22,7 @@
 
 <table>
 <tr>
-<td valign="top" width="98%">
+<td valign="top" width="49%">
 
 #### 💼 Work Experience
 
@@ -68,7 +68,7 @@
 </ul>
 
 </td>
-<td valign="top" width="42%">
+<td valign="top" width="49%">
 
 #### 💻 Open Source
 
