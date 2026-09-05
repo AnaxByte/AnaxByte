@@ -15,7 +15,7 @@
   </p>
 
   <p>
-    <code>💼 Recommendation Systems · Uplift Modeling</code>
+    <code>💼 Large Language Models · Agent Memory · Recommendation Systems</code>
     <code>📍 Shanghai, China</code>
   </p>
 </div>
@@ -59,14 +59,14 @@
 #### 🎓 Education
 
 <p>
-  <img src="./assets/fudan-university.svg" width="20" height="20" alt="Fudan University"/>
+  <img src="./assets/fudan-university.svg" width="13" height="13" alt="Fudan University"/>
   <strong>Fudan University</strong><br/>
   <sub>Master's Degree</sub>
 </p>
 
 <p>
-  <img src="./assets/cqupt.png" width="20" height="20" alt="CQUPT"/>
-  <strong>CQUPT</strong><br/>
+  <img src="./assets/cqupt.png" width="13" height="13" alt="Chongqing University of Posts and Telecommunications"/>
+  <strong>Chongqing University of Posts and Telecommunications</strong><br/>
   <sub>Bachelor's Degree</sub>
 </p>
 
