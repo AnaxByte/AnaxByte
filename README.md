@@ -20,10 +20,6 @@
   </p>
 </div>
 
-<table>
-<tr>
-<td valign="top" width="49%">
-
 #### 💼 Work Experience
 
 <ul>
@@ -67,16 +63,11 @@
   </li>
 </ul>
 
-</td>
-<td valign="top" width="49%">
-
 #### 💻 Open Source
 
-<p>
-  ✨ <strong><a href="https://github.com/AnaxByte/AI-SkillUp">AI SkillUp</a></strong><br/>
-  <sub>A practical skill tree for learning and building in the AI age.</sub>
-</p>
-
-</td>
-</tr>
-</table>
+<ul>
+  <li>
+    ✨ <strong><a href="https://github.com/AnaxByte/AI-SkillUp">AI SkillUp</a></strong><br/>
+    <sub>A practical skill tree for learning and building in the AI age.</sub>
+  </li>
+</ul>
