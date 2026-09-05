@@ -16,7 +16,7 @@
 
   <p>
     <code>� Large Language Models · Search & Recommendation · Personalized Generation</code>
-    <code>�📍 Shanghai, China</code>
+    <code>� Shanghai, China</code>
   </p>
 </div>
 
@@ -61,6 +61,9 @@
   </li>
 </ul>
 
+</td>
+<td valign="top" width="52%">
+
 #### 🏆 Competitions
 
 <ul>
@@ -73,9 +76,6 @@
     <sub>OneReason0.8B Post-Training · Top 1%</sub>
   </li>
 </ul>
-
-</td>
-<td valign="top" width="52%">
 
 #### 📄 Publications
 
