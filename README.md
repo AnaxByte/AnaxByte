@@ -52,22 +52,23 @@
   </li>
 </ul>
 
-</td>
-<td valign="top" width="42%">
-
 #### 🎓 Education
 
-<p>
-  <img src="./assets/fudan-university.svg" width="13" height="13" alt="Fudan University"/>
-  <strong>Fudan University</strong><br/>
-  <sub>Master's Degree</sub>
-</p>
+<ul>
+  <li>
+    <img src="./assets/fudan-university.svg" width="13" height="13" alt="Fudan University"/>
+    <strong>Fudan University</strong><br/>
+    <sub>Master's Degree</sub>
+  </li>
+  <li>
+    <img src="./assets/cqupt.png" width="13" height="13" alt="Chongqing University of Posts and Telecommunications"/>
+    <strong>Chongqing University of Posts and Telecommunications</strong><br/>
+    <sub>Bachelor's Degree</sub>
+  </li>
+</ul>
 
-<p>
-  <img src="./assets/cqupt.png" width="13" height="13" alt="Chongqing University of Posts and Telecommunications"/>
-  <strong>Chongqing University of Posts and Telecommunications</strong><br/>
-  <sub>Bachelor's Degree</sub>
-</p>
+</td>
+<td valign="top" width="42%">
 
 #### 💻 Open Source
 
