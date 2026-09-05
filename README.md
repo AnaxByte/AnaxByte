@@ -22,7 +22,7 @@
 
 <table>
 <tr>
-<td valign="top" width="58%">
+<td valign="top" width="98%">
 
 #### 💼 Work Experience
 
