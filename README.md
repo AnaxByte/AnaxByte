@@ -1,7 +1,7 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&size=18&duration=3200&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=AI+Algorithm+Engineer;Building+agents+that+reason+and+generalize"
-    alt="AI Algorithm Engineer. Building agents that reason and generalize."
+    src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&size=18&duration=3200&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+AnaxByte.;Building+agents+that+reason+and+generalize"
+    alt="Hi, I'm AnaxByte. Building agents that reason and generalize."
   />
 
   <p>
