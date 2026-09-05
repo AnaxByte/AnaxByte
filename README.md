@@ -15,8 +15,8 @@
   </p>
 
   <p>
-    <code>� Large Language Models · Search & Recommendation · Personalized Generation</code>
-    <code>� Shanghai, China</code>
+    <code> Large Language Models · Search & Recommendation · Personalized Generation</code>
+    <code> Shanghai, China</code>
   </p>
 </div>
 
@@ -64,16 +64,12 @@
 </td>
 <td valign="top" width="52%">
 
-#### 🏆 Competitions
+#### 💻 Open Source
 
 <ul>
   <li>
-    <strong>Tencent Algorithm Advertising Competition 2025</strong><br/>
-    <sub>Multimodal Generative Recommendation · Top 2%</sub>
-  </li>
-  <li>
-    <strong>Kuaishou LLM-Rec Challenge 2026</strong><br/>
-    <sub>OneReason0.8B Post-Training · Top 1%</sub>
+    ✨ <strong><a href="https://github.com/AnaxByte/AI-SkillUp">AI SkillUp</a></strong><br/>
+    <sub>A practical skill tree for learning and building in the AI age.</sub>
   </li>
 </ul>
 
@@ -98,12 +94,16 @@
   </li>
 </ul>
 
-#### 💻 Open Source
+#### 🏆 Competitions
 
 <ul>
   <li>
-    ✨ <strong><a href="https://github.com/AnaxByte/AI-SkillUp">AI SkillUp</a></strong><br/>
-    <sub>A practical skill tree for learning and building in the AI age.</sub>
+    <strong>Tencent Algorithm Advertising Competition 2025</strong><br/>
+    <sub>Multimodal Generative Recommendation · Top 2%</sub>
+  </li>
+  <li>
+    <strong>Kuaishou LLM-Rec Challenge 2026</strong><br/>
+    <sub>OneReason0.8B Post-Training · Top 1%</sub>
   </li>
 </ul>
 
