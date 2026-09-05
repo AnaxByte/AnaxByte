@@ -26,32 +26,31 @@
 
 #### 💼 Work Experience
 
-<p>
-  <img src="https://cdn.simpleicons.org/bytedance" width="13" height="13" alt="ByteDance"/>
-  <img src="https://cdn.simpleicons.org/tiktok/FE2C55" width="13" height="13" alt="Douyin"/>
-  <strong>ByteDance · Douyin E-commerce</strong><br/>
-  <sub>Algorithm Engineer · 2026.07 — Present</sub>
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/bytedance" width="13" height="13" alt="ByteDance"/>
-  <img src="https://cdn.simpleicons.org/tiktok/FE2C55" width="13" height="13" alt="Douyin"/>
-  <strong>ByteDance · Douyin E-commerce</strong><br/>
-  <sub>Algorithm Engineer Intern · 2026.04</sub>
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/qq" width="13" height="13" alt="Tencent QQ"/>
-  <img src="https://cdn.simpleicons.org/wechat" width="13" height="13" alt="WeChat"/>
-  <strong>Tencent · WeChat</strong><br/>
-  <sub>Algorithm Engineer Intern · 2025.05</sub>
-</p>
-
-<p>
-  <span aria-label="Xiaohongshu">🍠</span>
-  <strong>Xiaohongshu</strong><br/>
-  <sub>Algorithm Engineer Intern · 2024.12</sub>
-</p>
+<ul>
+  <li>
+    <img src="https://cdn.simpleicons.org/bytedance" width="13" height="13" alt="ByteDance"/>
+    <img src="https://cdn.simpleicons.org/tiktok/FE2C55" width="13" height="13" alt="Douyin"/>
+    <strong>ByteDance · Douyin E-commerce</strong><br/>
+    <sub>Algorithm Engineer · 2026.07 — Present</sub>
+  </li>
+  <li>
+    <img src="https://cdn.simpleicons.org/bytedance" width="13" height="13" alt="ByteDance"/>
+    <img src="https://cdn.simpleicons.org/tiktok/FE2C55" width="13" height="13" alt="Douyin"/>
+    <strong>ByteDance · Douyin E-commerce</strong><br/>
+    <sub>Algorithm Engineer Intern · 2026.04</sub>
+  </li>
+  <li>
+    <img src="https://cdn.simpleicons.org/qq" width="13" height="13" alt="Tencent QQ"/>
+    <img src="https://cdn.simpleicons.org/wechat" width="13" height="13" alt="WeChat"/>
+    <strong>Tencent · WeChat</strong><br/>
+    <sub>Algorithm Engineer Intern · 2025.05</sub>
+  </li>
+  <li>
+    <span aria-label="Xiaohongshu">🍠</span>
+    <strong>Xiaohongshu</strong><br/>
+    <sub>Algorithm Engineer Intern · 2024.12</sub>
+  </li>
+</ul>
 
 </td>
 <td valign="top" width="42%">
