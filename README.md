@@ -15,7 +15,8 @@
   </p>
 
   <p>
-    <code>📍 Shanghai, China</code>
+    <code>� Large Language Models · Search & Recommendation · Personalized Generation</code>
+    <code>�📍 Shanghai, China</code>
   </p>
 </div>
 
@@ -75,14 +76,6 @@
 
 </td>
 <td valign="top" width="52%">
-
-#### 🧠 Research Interests
-
-<ul>
-  <li><strong>Large Language Model Applications</strong></li>
-  <li><strong>Search & Recommendation Modeling</strong></li>
-  <li><strong>Personalized Language Generation</strong></li>
-</ul>
 
 #### 📄 Publications
 
