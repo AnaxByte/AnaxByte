@@ -22,48 +22,52 @@
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="58%">
 
 #### 💼 Work Experience
 
 <p>
   <img src="https://cdn.simpleicons.org/bytedance" width="13" height="13" alt="ByteDance"/>
   <img src="https://cdn.simpleicons.org/tiktok/FE2C55" width="13" height="13" alt="Douyin"/>
-  <strong>ByteDance</strong> —
-  <code>Douyin E-commerce · Algorithm Engineer</code> —
-  <code>2026.07 — Present</code>
-  <br/><br/>
+  <strong>ByteDance · Douyin E-commerce</strong><br/>
+  <sub>Algorithm Engineer · 2026.07 — Present</sub>
+</p>
+
+<p>
   <img src="https://cdn.simpleicons.org/bytedance" width="13" height="13" alt="ByteDance"/>
   <img src="https://cdn.simpleicons.org/tiktok/FE2C55" width="13" height="13" alt="Douyin"/>
-  <strong>ByteDance</strong> —
-  <code>Douyin E-commerce · Algorithm Engineer Intern</code> —
-  <code>2026.04</code>
-  <br/><br/>
+  <strong>ByteDance · Douyin E-commerce</strong><br/>
+  <sub>Algorithm Engineer Intern · 2026.04</sub>
+</p>
+
+<p>
   <img src="https://cdn.simpleicons.org/qq" width="13" height="13" alt="Tencent QQ"/>
   <img src="https://cdn.simpleicons.org/wechat" width="13" height="13" alt="WeChat"/>
-  <strong>Tencent</strong> —
-  <code>WeChat · Algorithm Engineer Intern</code> —
-  <code>2025.05</code>
-  <br/><br/>
+  <strong>Tencent · WeChat</strong><br/>
+  <sub>Algorithm Engineer Intern · 2025.05</sub>
+</p>
+
+<p>
   <span aria-label="Xiaohongshu">🍠</span>
-  <strong>Xiaohongshu</strong> —
-  <code>Algorithm Engineer Intern</code> —
-  <code>2024.12</code>
+  <strong>Xiaohongshu</strong><br/>
+  <sub>Algorithm Engineer Intern · 2024.12</sub>
 </p>
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="42%">
 
 #### 🎓 Education
 
 <p>
   <img src="./assets/fudan-university.svg" width="20" height="20" alt="Fudan University"/>
-  <strong>Fudan University</strong> —
-  <code>Master's Degree</code>
-  <br/><br/>
+  <strong>Fudan University</strong><br/>
+  <sub>Master's Degree</sub>
+</p>
+
+<p>
   <img src="./assets/cqupt.png" width="20" height="20" alt="CQUPT"/>
-  <strong>Chongqing University of Posts and Telecommunications</strong> —
-  <code>Bachelor's Degree</code>
+  <strong>CQUPT</strong><br/>
+  <sub>Bachelor's Degree</sub>
 </p>
 
 #### 💻 Open Source
