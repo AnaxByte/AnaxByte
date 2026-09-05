@@ -15,10 +15,13 @@
   </p>
 
   <p>
-    <code>💼 Large Language Models · Agent Memory · Recommendation Systems</code>
     <code>📍 Shanghai, China</code>
   </p>
 </div>
+
+<table>
+<tr>
+<td valign="top" width="58%">
 
 #### 💼 Work Experience
 
@@ -63,6 +66,17 @@
   </li>
 </ul>
 
+</td>
+<td valign="top" width="42%">
+
+#### 🧠 Focus
+
+<ul>
+  <li><strong>Large Language Models</strong></li>
+  <li><strong>Agent Memory</strong></li>
+  <li><strong>Recommendation Systems</strong></li>
+</ul>
+
 #### 💻 Open Source
 
 <ul>
@@ -71,3 +85,7 @@
     <sub>A practical skill tree for learning and building in the AI age.</sub>
   </li>
 </ul>
+
+</td>
+</tr>
+</table>
