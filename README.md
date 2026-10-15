@@ -54,12 +54,12 @@
     <strong>Fudan University</strong><br/>
     <sub>Master's Degree · 2023.09 — 2026.06</sub>
   </li>
-  <li>
+  <!-- <li>
     <img src="./assets/cqupt.png" width="13" height="13" alt="Chongqing University of Posts and Telecommunications"/>
     <strong>Chongqing University of Posts and Telecommunications</strong><br/>
     <sub>Bachelor's Degree · 2019.09 — 2023.06</sub>
   </li>
-</ul>
+</ul> -->
 
 </td>
 <td valign="top" width="52%">
